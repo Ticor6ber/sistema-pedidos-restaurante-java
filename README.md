@@ -17,10 +17,10 @@ Este es un proyecto académico enfocado en la aplicación práctica de principio
 ## Capturas de Pantalla
 
 ### Interfaz del Menú y Carrito de Compras
-![Menú de Productos](Captura%20de%20pantalla%202026-10-01%20154614.jpg)
+![Menú de Productos](menu.png)
 
 ### Pasarela de Pagos Simulada
-![Métodos de Pago](Captura%20de%20pantalla%202026-10-01%20154626.png)
+![Métodos de Pago](pagos.png)
 
 ## Tecnologías y Herramientas Utilizadas
 
